@@ -1,4 +1,4 @@
 # ChatRoom
-Introduction: A chatroom based on epoll and fork
-
-License: MIT
+A chatroom based on epoll and fork
+# Licence
+MIT
